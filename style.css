@@ -1,0 +1,10 @@
+body {
+    background-color: palevioletred;
+    color:ghostwhite;
+    font-family: "Lobster Two", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
