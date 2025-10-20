@@ -8,3 +8,11 @@ body {
     height: 700px;
     margin: 0;
 }
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
